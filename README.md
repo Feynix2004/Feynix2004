@@ -6,3 +6,4 @@
 
 [![Feynix's GitHub stats](https://github-immortality.vercel.app/api?username=Feynix2004)](https://github.com/Feynix2004)
 
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
