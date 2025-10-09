@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feynix2004)
-
+[![GitHub Timeline](https://github-readme-timeline.vercel.app/api/timeline/Feynix2004/AgentX)](https://github.com/Feynix2004/AgentX)
 
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
